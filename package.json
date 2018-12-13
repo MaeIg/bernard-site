@@ -1,0 +1,10 @@
+{
+    "name": "Bernard-site",
+    "version": "0.1.0",
+    "dependencies": {
+        "express": "~3.3.4",
+        "socket.io": "~1.2.1"
+    },
+    "author": "Maelg",
+    "description": "Miou ! :3"
+}
