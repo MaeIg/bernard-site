@@ -71,11 +71,15 @@ ul.logs {
     text-align: center;
 }
 
+ul.logs li {
+    margin-bottom: 16px;    
+}
+
 .date_log {
     margin: 0px;
     font-style: italic;
 }
 
 .desc_log {
-    margin-top: 0px;
+    margin: 0px;
 }
