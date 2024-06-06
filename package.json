@@ -4,6 +4,9 @@
     "dependencies": {
         "express": "~3.11"
     },
+    "scripts": {
+        "start": "node server.js"
+    },
     "author": "Maelg",
     "description": "Miou ! :3"
 }
